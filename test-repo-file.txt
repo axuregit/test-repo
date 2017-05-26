@@ -12,11 +12,3 @@ test-repo string
 test repo string 2
 test-repo string
 test repo string 2
-test-repo string
-test repo string 2
-test-repo string
-test repo string 2
-test-repo string
-test repo string 2
-test-repo string
-test repo string 2
